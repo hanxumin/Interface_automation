@@ -1,0 +1,7 @@
+2021-08-15 22:08:07.626 windows_dos.py[28] <module> -> Find Control Timeout: {Name: '7', ControlType: ButtonControl}
+2021-08-16 00:47:40.940 crawling.py[46] <module> -> Find Control Timeout: {Name: 'Add Request', ControlType: ButtonControl}
+2021-08-16 01:18:15.560 ui_postman.py[15] <module> -> Can not move cursor. EditControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ProcessId: 2044, ControlType: EditControl}
+2021-08-16 01:18:39.945 ui_postman.py[16] <module> -> Can not move cursor. EditControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ProcessId: 2044, ControlType: EditControl}
+2021-08-16 01:22:20.191 ui_postman.py[18] <module> -> Can not move cursor. EditControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ProcessId: 2044, ControlType: EditControl}
+2021-08-16 01:23:43.065 ui_postman.py[17] <module> -> Can not move cursor. EditControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ProcessId: 2044, ControlType: EditControl}
+2021-08-16 01:24:13.820 ui_postman.py[17] <module> -> Can not move cursor. EditControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ProcessId: 2044, ControlType: EditControl}

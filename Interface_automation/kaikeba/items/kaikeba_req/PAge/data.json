@@ -1,0 +1,28 @@
+{
+    "app_id":"YG1O5y61cBcG0DNPRvvCXPBPVy8Gfd8e",
+    "room_id":"0531001",
+    "input_params":{
+        "fill_frame":{
+            "fill_mode":2
+            },
+        "mix_config":{
+            "mix_mode":1,
+            "input_list":[
+                {
+                    "user_id":"300010020",
+                    "x":0,
+                    "y":0,
+                    "width":640,
+                    "height":720,
+                    "z_order":1
+                }
+            ],
+            "video":{
+                "size":"1280x720",
+                "background_color":"#ffd700",
+                "bit_rate":500,
+                "fps":30
+            }
+        }
+    }
+}

@@ -1,0 +1,16 @@
+--*--Source path:... D:\PyCharm_wenjian\Interface_automation\Base\voice.py
+--*--Starting var:.. self = <Base.voice.record object at 0x000001907682CBE0>
+--*--Starting var:.. func = None
+--*--13:28:45.141207 call        43     def number_to_bits(self, func):
+--*--13:28:45.143205 line        46         print(func)
+--*--13:28:45.143205 return      46         print(func)
+--*--Return value:.. None
+--*--Elapsed time: 00:00:00.001998
+--*--Source path:... D:/PyCharm_wenjian/Interface_automation/Base/voice.py
+--*--Starting var:.. self = <__main__.record object at 0x0000019076A5FEF0>
+--*--Starting var:.. func = None
+--*--13:28:45.254243 call        43     def number_to_bits(self, func):
+--*--13:28:45.258230 line        46         print(func)
+--*--13:28:45.258230 return      46         print(func)
+--*--Return value:.. None
+--*--Elapsed time: 00:00:00.003987

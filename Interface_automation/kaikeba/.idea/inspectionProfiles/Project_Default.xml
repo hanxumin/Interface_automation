@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="zero2.page.login_page.LoginPage.find_password" />
+          <option value="logging.handlers.TimedRotatingFileHand" />
+          <option value="logging.handlers.TimedRotatingFileHandler" />
+          <option value="win32condef" />
+          <option value="flaskr.brtc.login_form" />
+          <option value="flaskr.brtc.get_sig" />
+          <option value="Base.num_print" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
